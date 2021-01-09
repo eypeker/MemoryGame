@@ -1,0 +1,3 @@
+title=Minions
+field_color=#F2F5A9
+card_color=#ffff66

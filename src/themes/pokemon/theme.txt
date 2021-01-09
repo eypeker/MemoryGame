@@ -1,0 +1,3 @@
+title=Pokémon
+field_color=#FBEFEF
+card_color=#F78181
